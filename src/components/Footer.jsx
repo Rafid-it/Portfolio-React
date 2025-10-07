@@ -2,7 +2,7 @@ import Container from './Container';
 
 function Footer() {
   return (
-    <footer id="contact" className="bg-black  text-white mt-[240px] py-12">
+    <footer id="contact" className="bg-black text-white mt-[160px] py-12">
       <Container className="max-w-6xl mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
         
